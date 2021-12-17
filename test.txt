@@ -1,2 +1,3 @@
-First commit
+**First commit
 Second commit in feature1 branch
+Third commit in feature2 branch, but also modified orig first line
